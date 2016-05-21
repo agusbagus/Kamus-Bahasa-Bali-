@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">"Kamus Bahasa "</string>
+    <string name="bahasa_indonesia_text">"Bahasa_Indonesia"</string>
+    <string name="cari_text">"Cari"</string>
+    <string name="bahasa_bali_text">"Bahasa_Bali"</string>
+    <string name="keterangan_text">"Keterangan"</string>
+
+</resources>
